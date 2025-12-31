@@ -1,7 +1,7 @@
 # management_system
 Full Stack Project On MERN -Deploy on Vercel
 
-
+DEMO :https://maid-hire-web-portal-dvqa-git-main-patel-bijals-projects.vercel.app/
 
 # Maid Hire Web Portal
 
@@ -158,4 +158,4 @@ CI/CD pipelines using GitHub Actions for automated testing and deployment
 
 Scalable and maintainable backend architecture
 ## Demo
-
+https://maid-hire-web-portal-dvqa-git-main-patel-bijals-projects.vercel.app/
